@@ -1,0 +1,5 @@
+Pick a pivot: Choose any element from the array. Often, the last element is used for simplicity, but you can choose any element.
+
+Partitioning: Rearrange the array so that elements less than the pivot are on its left, and elements greater than the pivot are on its right.
+
+Recursion: Recursively apply the same steps to the subarrays of elements to the left and right of the pivot.
